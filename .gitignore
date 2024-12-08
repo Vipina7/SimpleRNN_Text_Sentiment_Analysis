@@ -1,0 +1,9 @@
+# ignore virtual environment
+./venv
+
+# ignore notebook checkpoints
+.ipynb_checkpoints/
+
+#cache files
+*.log
+*.tmp
